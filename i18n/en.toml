@@ -5,7 +5,7 @@ other = "More"
 other = "All {{.Title }}"
 
 [recentTitle]
-other = "Recent {{.Title }}"
+other = "Our {{.Title }}"
 
 [readMore]
 other = "read more"
@@ -47,3 +47,6 @@ other = "{{ .Count }} words"
 
 [pageTitle]
 other = "{{ .Name }} page"
+
+[policy]
+other = "Privacy Policy"

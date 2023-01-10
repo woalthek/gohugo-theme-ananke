@@ -1,3 +1,7 @@
 module:
   hugoVersion:
     min: "0.84.0"
+    
+params:
+  copyright: SpaceCube
+  privacy_policy: https://policies.google.com/privacy
