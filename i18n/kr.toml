@@ -20,19 +20,19 @@ other = "What's in this {{ .Type }}"
 other = "Related"
 
 [yourName]
-other = "Your Name"
+other = "이름"
 
 [emailAddress]
-other = "Email Address"
+other = "이메일"
 
 [message]
-other = "Message"
+other = "내용"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "이메일 주소가 필요합니다."
 
 [send]
-other = "Send"
+other = "보내기"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
