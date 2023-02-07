@@ -50,3 +50,6 @@ other = "{{ .Name }} page"
 
 [policy]
 other = "개인정보처리방침"
+
+[credits]
+other = "credits"

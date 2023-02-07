@@ -50,3 +50,6 @@ other = "{{ .Name }} page"
 
 [policy]
 other = "Privacy Policy"
+
+[credits]
+other = "credits"
